@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-html, body {
+body {
     margin: 0 auto;
 }
 
@@ -60,6 +60,8 @@ a {
     left: 50px;
 
     display: inline-block;
+    padding: 10px 20px;
+    position: relative;
 
     text-decoration: none;
     border: 1px solid blue;
